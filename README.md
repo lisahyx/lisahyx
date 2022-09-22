@@ -1,4 +1,4 @@
-<p>I'm Lisa Ho, a Y2 student from the University of Nottingham majoring in Computer Science and Artificial Intelligence.</p>
+<p>I'm Lisa Ho, a Y2 student from the University of Nottingham majoring in Computer Science with Artificial Intelligence.</p>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
