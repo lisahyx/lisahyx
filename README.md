@@ -17,6 +17,40 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lisahyx&langs_count=10&layout=compact" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 156 Contributions in the Year 2022
+ > 
+> 📦 3.4 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I Mostly Code in HTML** 
+
+```text
+HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+MATLAB                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+C++                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Assembly                 1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+PHP                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/lisahyx/lisahyx/main/charts/bar_graph.png) 
+
+
+ Last Updated on 23/09/2022 12:57:07 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://komarev.com/ghpvc/?username=lisahyx&label=Profile%20views&color=yellow&style=flat" />
