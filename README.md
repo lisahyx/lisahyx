@@ -19,12 +19,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/lisahyx/lisahyx/main/charts/bar_graph.png) 
-
-
- Last Updated on 23/09/2022 14:12:52 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://komarev.com/ghpvc/?username=lisahyx&label=Profile%20views&color=yellow&style=flat" />
