@@ -17,9 +17,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lisahyx&langs_count=10&layout=compact" />
 
 <!--START_SECTION:waka-->
-```text
 
-```
 <!--END_SECTION:waka-->
 
 <img src="https://komarev.com/ghpvc/?username=lisahyx&label=Profile%20views&color=yellow&style=flat" />
