@@ -17,7 +17,38 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lisahyx&langs_count=10&layout=compact" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%203%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    137 commits    ███████████████████████░░   91.95% 
+🌃 Evening    11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.38% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+CSS                      39 mins             ██████████████████░░░░░░░   74.44% 
+HTML                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.56%
+
+🔥 Editors: 
+VS Code                  53 mins             █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+lisahyx.github.io        53 mins             █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  53 mins             █████████████████████████   100.0%
+
+```
 
 
 <!--END_SECTION:waka-->
