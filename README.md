@@ -49,10 +49,6 @@ lisahyx.github.io        53 mins             ███████████�
 Windows                  53 mins             █████████████████████████   100.0%
 
 ```
-
-
 <!--END_SECTION:waka-->
-
-![lisa ho's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lisahyx&v=2)  
 
 <img src="https://komarev.com/ghpvc/?username=lisahyx&label=Profile%20views&color=yellow&style=flat" />
