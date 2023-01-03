@@ -17,6 +17,25 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lisahyx&langs_count=10&layout=compact" />
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94% 
+🌆 Daytime    162 commits    █████████████████░░░░░░░░   68.07% 
+🌃 Evening    40 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.81% 
+🌙 Night      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+```
+
 
 <!--END_SECTION:waka-->
 
