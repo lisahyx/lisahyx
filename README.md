@@ -31,7 +31,7 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     16 mins             █████████████████████████   100.00 % 
 ```
 
 
