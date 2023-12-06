@@ -17,23 +17,6 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lisahyx&langs_count=10&layout=compact" />
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-🌆 Daytime                242 commits         ███████████████░░░░░░░░░░   61.11 % 
-🌃 Evening                92 commits          ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-🌙 Night                  52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
