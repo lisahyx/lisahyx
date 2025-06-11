@@ -31,7 +31,7 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
