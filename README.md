@@ -1,4 +1,4 @@
-<p>I'm Lisa Ho, a final year student from the University of Nottingham majoring in Computer Science with Artificial Intelligence.</p>
+<p>I'm Lisa Ho, a Master in Data Science student from Univerisiti Malaya.</p>
 <p>  
   <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
